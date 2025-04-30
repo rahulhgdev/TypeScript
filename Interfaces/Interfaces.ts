@@ -2,7 +2,7 @@
 // When you're passing obj in a function at that time you've to give type to that object, in this case we use interface
 // Interface is use to define face of object means which type of data is stored in that oject.
 
-// Ex., If you want to create intrface of Transaction Object
+// Ex., If you want to create interface of Transaction Object
 const transactions = {
    title: "Piad tuition fees",
    desc: "Paid online last friday on 11th April",

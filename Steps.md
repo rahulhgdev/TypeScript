@@ -9,7 +9,7 @@
 run npm i typescript -g (install TS globally on your system)
 
 # How to configure 
-- Create 1 .ts file ex., app.js (else it'll give error in tsconfig.json as it requires atleast 1 .ts file)
+- Create 1 .ts file ex., app.ts (else it'll give error in tsconfig.json as it requires atleast 1 .ts file)
 - create tsconfig.json (tsc --init or npx tsc --init)
 - tsconfig.json is used for defining rules like., don't compile if .ts file consists not assigned variable or if function is not called on declared
 
@@ -20,6 +20,5 @@ run npm i typescript -g (install TS globally on your system)
 
 
 ## Topics - 
-
 1. Premitives - DataTypes like number, boolean, string..., in short without {}, [], ()
 2. Reference - DataTypes like array, object inshort with {}, [], ()
