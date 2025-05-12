@@ -18,7 +18,6 @@ run npm i typescript -g (install TS globally on your system)
 - You can type tsc file.js or only tsc to compile ts file
 - To avoid compiling TS file each time run tsc --watch
 
-
 ## Topics - 
 1. Premitives - DataTypes like number, boolean, string..., in short without {}, [], ()
 2. Reference - DataTypes like array, object inshort with {}, [], ()
